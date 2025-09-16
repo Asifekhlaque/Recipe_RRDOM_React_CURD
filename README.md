@@ -206,6 +206,3 @@ By building this project, you revise:
 * How to **implement CRUD** in React apps.
 * How to **show feedback** using toast notifications.
 
----
-
-```
