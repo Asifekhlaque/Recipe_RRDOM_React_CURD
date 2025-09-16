@@ -209,8 +209,3 @@ By building this project, you revise:
 ---
 
 ```
-
----
-
-Do you want me to also make a **PDF version** of this README so you can keep it as study notes for revision, or just the markdown is enough?
-```
